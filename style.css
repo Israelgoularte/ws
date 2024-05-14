@@ -3,7 +3,6 @@
 }
 body{
     background-color: var(--bk1);
-    min-width: 100%;
 }
 
 header{
@@ -40,6 +39,10 @@ header nav ul{
     justify-content: space-around;
     align-items: start;
     gap: 10px;
+}
+
+main{
+    min-width: 100%;
 }
 
 .banner{
