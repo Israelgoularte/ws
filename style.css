@@ -3,6 +3,7 @@
 }
 body{
     background-color: var(--bk1);
+    min-width: 100%;
 }
 
 header{
